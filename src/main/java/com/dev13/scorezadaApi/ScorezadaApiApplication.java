@@ -1,4 +1,4 @@
-package com.dev13.scorezada_api;
+package com.dev13.scorezadaApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
